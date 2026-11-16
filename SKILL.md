@@ -1,5 +1,5 @@
 ---
-name: Fanpage Content & Auto-Schedule
+name: fanpage-content-auto-schedule
 description: >-
   Use this when drafting, optimizing, scheduling Facebook Fanpage posts or Reels
   in Meta Business Suite and preparing first-comment product links without reach
